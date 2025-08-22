@@ -15,7 +15,7 @@ With a foundation in full-stack web development, I enjoy building scalable syste
 
 ---
 
-<h3 align="left">🔗 Let's Connect</h3>
+<h3 align="left">🤝 Let's Connect</h3>
 <p align="left">
   <a href="mailto:dalvipushkar2006@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=xLIkjgcmFOsC&format=png&color=000000" alt="email" height="30" width="40" />
