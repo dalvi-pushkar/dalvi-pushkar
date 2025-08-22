@@ -5,22 +5,22 @@
 <p align="left">
 I'm a passionate DevOps practitioner who loves solving problems through automation, cloud-native tools, and continuous delivery practices.  
 With a foundation in full-stack web development, I enjoy building scalable systems and streamlining development workflows.
-</p>
+</p><br>
 
-- 🔭 I’m currently working on **Projects**  
-- 🌱 I’m currently learning **Terraform**  
-- 💬 Ask me about **DevOps**  
-- 📫 How to reach me: **dalvipushkar2006@gmail.com**  
+- 🔭 I’m currently working on **Projects**
+    
+- 🌱 I’m currently learning **Terraform**
+    
+- 💬 Ask me about **DevOps**
+  
+- 📫 How to reach me: **dalvipushkar2006@gmail.com**
+   
 - ⚡ Fun fact: **Coffee is my primary dependency**
 
 ---
 
 <h3 align="left">🤝 Let's Connect</h3>
 <p align="left">
-  <a href="mailto:dalvipushkar2006@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=xLIkjgcmFOsC&format=png&color=000000" alt="email" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/dalvipushkar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
