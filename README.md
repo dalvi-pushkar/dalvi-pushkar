@@ -9,7 +9,7 @@ With a foundation in full-stack web development, I enjoy building scalable syste
 
 - 🔭 I’m currently working on **Projects**
     
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **AWS**
     
 - 💬 Ask me about **DevOps**
   
