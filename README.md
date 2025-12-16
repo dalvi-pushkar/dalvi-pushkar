@@ -15,7 +15,7 @@ With a foundation in full-stack web development, I enjoy building scalable syste
   
 - 📫 How to reach me: **dalvipushkar2006@gmail.com**
    
-- ⚡ Fun fact: **Coffee is my primary dependency**
+- ☕ Fun fact: **Coffee is my primary dependency**
 
 ---
 
